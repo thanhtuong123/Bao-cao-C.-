@@ -36,3 +36,4 @@ D:\lethanhtuong_winform\LeThanhTuong_2123110128\Example01\Article00_FormBasic\ob
 D:\lethanhtuong_winform\LeThanhTuong_2123110128\Example01\Article00_FormBasic\obj\Debug\net8.0-windows\LeThanhTuong_2123110128.Form22.resources
 D:\lethanhtuong_winform\LeThanhTuong_2123110128\Example01\Article00_FormBasic\obj\Debug\net8.0-windows\LeThanhTuong_2123110128.Form23.resources
 D:\lethanhtuong_winform\LeThanhTuong_2123110128\Example01\Article00_FormBasic\obj\Debug\net8.0-windows\LeThanhTuong_2123110128.Form24.resources
+D:\lethanhtuong_winform\LeThanhTuong_2123110128\Example01\Article00_FormBasic\obj\Debug\net8.0-windows\LeThanhTuong_2123110128.sourcelink.json

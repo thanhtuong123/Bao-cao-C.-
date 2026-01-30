@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeThanhTuong_2123110128")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+507a8373f2c0ac14a9432b79a56acce4432b3c4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeThanhTuong_2123110128")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeThanhTuong_2123110128")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

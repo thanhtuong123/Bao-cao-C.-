@@ -9,7 +9,7 @@ namespace LeThanhTuong_2123110128
 		static void Main()
 		{
 			ApplicationConfiguration.Initialize();
-			Application.Run(new Form3());
+			Application.Run(new Form14());
 		}
 	}
 }
